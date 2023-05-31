@@ -7,8 +7,8 @@ runs:
   image: docker://platane/snk@sha256:bd0f7538482216785abbee29da431738f5ea9aff9fc3a4b8df37708a808f0968
 
 inputs:
-  yakiniats:
-    description: "yakiniats"
+  github_user_name:
+    description: "github user name"
     required: true
   outputs:
     required: false
