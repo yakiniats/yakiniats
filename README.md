@@ -11,7 +11,7 @@
 
 ### Programming Languages:
 
-<img align="center" alt="Yakiniats" height="80" width="90" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
+<img align="center" alt="Yakiniats" height="80" width="90" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img align="center" alt="Yakiniats" height="80" width="90" src="https://github.com/yakiniats/yakiniats/assets/55765048/3a1f0bd7-21cb-442f-84c0-902aed6fe37d"> 
 
 ### Contact me:
 
