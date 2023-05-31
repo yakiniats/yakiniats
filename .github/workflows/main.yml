@@ -7,7 +7,6 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    
 permissions:
   actions: read-all|write-all
   checks: read-all|write-all
@@ -22,7 +21,6 @@ permissions:
   repository-projects: read-all|write-all
   security-events: read-all|write-all
   statuses: read-all|write-all
-    
     steps:
       # Snake Animation
       - uses: Platane/snk@master
