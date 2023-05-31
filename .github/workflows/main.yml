@@ -8,7 +8,7 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     
-    permissions:
+permissions:
   actions: read-all|write-all
   checks: read-all|write-all
   contents: read-all|write-all
