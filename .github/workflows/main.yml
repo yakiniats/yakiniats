@@ -9,19 +9,19 @@ jobs:
     runs-on: ubuntu-latest
     
     permissions:
-  actions: read|write|none
-  checks: read|write|none
-  contents: read|write|none
-  deployments: read|write|none
-  id-token: read|write|none
-  issues: read|write|none
-  discussions: read|write|none
-  packages: read|write|none
-  pages: read|write|none
-  pull-requests: read|write|none
-  repository-projects: read|write|none
-  security-events: read|write|none
-  statuses: read|write|none
+  actions: read-all|write-all
+  checks: read-all|write-all
+  contents: read-all|write-all
+  deployments: read-all|write-all
+  id-token: read-all|write-all
+  issues: read-all|write-all
+  discussions: read-all|write-all
+  packages: read-all|write-all
+  pages: read-all|write-all
+  pull-requests: read-all|write-all
+  repository-projects: read-all|write-all
+  security-events: read-all|write-all
+  statuses: read-all|write-all
     
     steps:
       # Snake Animation
