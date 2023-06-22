@@ -2,7 +2,7 @@
 
 </br>
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, HTML, CSS
 
 </br>
 
