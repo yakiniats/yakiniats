@@ -8,13 +8,7 @@
 
 ### My Status:
 
-<div>
-  <a href="https://github.com/yakiniats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=yakiniats&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakiniats&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
-  </br>
+-
   
 ### Programming Languages:
 
